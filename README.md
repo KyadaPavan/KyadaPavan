@@ -1,8 +1,8 @@
 ![logo](https://github.com/KyadaPavan/KyadaPavan/blob/main/Git%20Hub%20Banner.png)
 <h1 align="center">Hi 👋, I'm Kyada Pavan</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
 
-<p>Hello, I'm Pavan Kyada , a third year student currently pursuing B.E. in Information Technology at A.D. Patel Institute of Technology.
+
+<p>Hello, This side Pavan Kyada , a third year student currently pursuing B.E. in Information Technology at <a href="https://www.adit.ac.in/">A D Patel Institute of Technology</a>, Anand.
 I'm a passionate Front-End Developer and willing to be a MERN Stack Developer. Extremely passionate about technology and hands-on experience where my curiosity drives me along with my Key Competencies in HTML, CSS, JavaScript, Python, Java etc. 
 
 I look forward to continue growth, learning and seeking a challenging and rewarding position in the IT industry.
@@ -13,8 +13,15 @@ It's great to see you here! Let's connect and explore opportunities together!�
 
 
 
-##  Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pavan.kyada.16) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pavankyada) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KyadaPavan) 
+<h2 align="left">Socials</h2>
+
+<div align="left">
+  <a href="https://linkedin.com/in/pavankyada" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/KyadaPavan" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+  <a href="https://instagram.com/pavan.kyada.16" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="mailto:kyadapavan0016@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</div>
 
 # Skills🚀:
 

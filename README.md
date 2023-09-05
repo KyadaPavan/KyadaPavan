@@ -1,4 +1,4 @@
-![logo](https://github.com/KyadaPavan/KyadaPavan/blob/main/Git%20Hub%20Banner.png)
+![logo](https://user-images.githubusercontent.com/121122397/216614878-411f6178-defa-4330-ba48-16db1cc92830.png)
 <h1 align="center">Hi 👋, I'm Kyada Pavan</h1>
 
 

@@ -24,6 +24,18 @@ It's great to see you here! Let's connect and explore opportunities together!�
 
 </div>
 
+<h2 align="left">About me👨‍💻</h2>
+
+```JavaScript
+const KyadaPavan = {
+  fulName: "Pavan Kyada",
+  pronouns: "He/Him",
+  tags: [ "Frontend❤️", "Hackathons⚡", "Communities🎯", "Programming"],
+  ask me about: [ "Web Development", "Web Designing" ],
+  reach out: ["kyadapavan0016@gmail.com"],
+}
+```
+
 # Skills🚀:
 
 Languages:

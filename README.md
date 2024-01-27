@@ -19,8 +19,8 @@ It's great to see you here! Let's connect and explore opportunities together!ğŸ¤
 ## Connect with meğŸ¤
 
 <p>
-  <a  href="https://twitter.com/KyadaPavan" target="_blank"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/twitterlogo.png" height=44></a> &nbsp; &nbsp;
   <a  href="https://linkedin.com/in/pavankyada" target="_blank"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/linkedinlogo.png" height=44></a> &nbsp; &nbsp;
+  <a  href="https://twitter.com/KyadaPavan" target="_blank"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/twitterlogo.png" height=44></a> &nbsp; &nbsp;
   <a href="https://instagram.com/pavan.kyada.16" target="_blank"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/instagramlogo.png" height=44></a> &nbsp; &nbsp;
 </p>
 

@@ -1,5 +1,5 @@
 ![logo](https://user-images.githubusercontent.com/121122397/216614878-411f6178-defa-4330-ba48-16db1cc92830.png)
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/>, I'm Kyada Pavan</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/>, I'm Pavan Kyada</h1>
 
 
 <p>Hello, This side Pavan Kyada , a third year student currently pursuing B.E. in Information Technology at <a href="https://www.adit.ac.in/">A D Patel Institute of Technology</a>, Anand.

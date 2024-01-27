@@ -1,5 +1,5 @@
 ![logo](https://user-images.githubusercontent.com/121122397/216614878-411f6178-defa-4330-ba48-16db1cc92830.png)
-<h1 align="center">Hi 👋, I'm Kyada Pavan</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/>, I'm Kyada Pavan</h1>
 
 
 <p>Hello, This side Pavan Kyada , a third year student currently pursuing B.E. in Information Technology at <a href="https://www.adit.ac.in/">A D Patel Institute of Technology</a>, Anand.
@@ -12,17 +12,19 @@ It's great to see you here! Let's connect and explore opportunities together!�
 
 
 
+## Mail Me
 
-<h2 align="left">Socials</h2>
+<p align="left">&nbsp;<a  href="mailto:kyadapavan0016@gmail.com" target="_blank" align="left"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/gmail.png" height=50> </a></p>
 
-<div align="left">
-  <a href="https://linkedin.com/in/pavankyada" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:kyadapavan0016@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/KyadaPavan" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-  <a href="https://instagram.com/pavan.kyada.16" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  
+## Connect with me🤝
 
-</div>
+<p>
+  <a  href="https://twitter.com/KyadaPavan" target="_blank"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/twitterlogo.png" height=44></a> &nbsp; &nbsp;
+  <a  href="https://linkedin.com/in/pavankyada" target="_blank"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/linkedinlogo.png" height=44></a> &nbsp; &nbsp;
+  <a href="https://instagram.com/pavan.kyada.16" target="_blank"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/instagramlogo.png" height=44></a> &nbsp; &nbsp;
+</p>
+
+
 
 <h2 align="left">About me👨‍💻</h2>
 

@@ -79,6 +79,14 @@ const KyadaPavan = {
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 
+
+<br>
+
+<img src="https://github.com/KyadaPavan/KyadaPavan/blob/main/Mario_Gameplay.gif" alt="Mario Game" width="980">
+
+<br>
+
+
 # Stats📈:
 <br>
 

@@ -2,12 +2,15 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/>, I'm Pavan Kyada</h1>
 
 
-<p>Hello, This side Pavan Kyada , a third year student currently pursuing B.E. in Information Technology at <a href="https://www.adit.ac.in/">A D Patel Institute of Technology</a>, Anand.
-I'm a passionate Front-End Developer and willing to be a MERN Stack Developer. Extremely passionate about technology and hands-on experience where my curiosity drives me along with my Key Competencies in HTML, CSS, JavaScript, Python, Java etc. 
+<p>Hello, I'm Pavan Kyada, a third-year Information Technology student at A.D. Patel Institute of Technology, deeply passionate about the ever-evolving world of web development.
 
-I look forward to continue growth, learning and seeking a challenging and rewarding position in the IT industry.
+My journey as a Frontend Developer is fueled by a relentless curiosity for technology and a desire to innovate. Currently, I'm honing my skills to transition into a proficient MERN Stack Developer, driven by a love for crafting dynamic and interactive web applications.
 
-It's great to see you here! Let's connect and explore opportunities together!🤝</p>
+While having a solid foundation in JavaScript and a knack for frontend frameworks like React and Next.js, I thrive on turning ideas into intuitive user interfaces. I'm also familiar with backend technologies like Node.js and Express.
+
+Driven by my curiosity for technology, I'm constantly exploring new tools and frameworks to enhance my development capabilities. My hands-on experience and eagerness to learn allow me to adapt quickly and contribute effectively to diverse projects.
+
+I'm eager to continue my growth journey and take on challenging roles that allow me to leverage my frontend expertise while further developing my backend skills. Let's connect and explore how we can collaborate to create innovative solutions in the dynamic world of web development!🚀</p>
 
 
 

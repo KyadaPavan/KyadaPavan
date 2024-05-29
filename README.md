@@ -14,9 +14,9 @@ I'm eager to take on challenging full-stack developer roles that allow me to lev
 
 I'm always interested in networking and collaborating. Feel free to connect with me to discuss web development or explore potential opportunities.</p>
 
+* Check out more about me - [Portfolio](pavankyada.vercel.app)  [Resume](https://pavankyada.vercel.app/resume)
 
-
-
+  
 ## Mail Me
 
 <p align="left">&nbsp;<a  href="mailto:kyadapavan0016@gmail.com" target="_blank" align="left"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/gmail.png" height=50> </a></p>

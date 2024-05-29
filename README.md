@@ -16,6 +16,13 @@ I'm always interested in networking and collaborating. Feel free to connect with
 
 * Check out more about me - [Portfolio](https://pavankyada.vercel.app)  [Resume](https://pavankyada.vercel.app/resume)
 
+
+```javascript
+
+ currently open for full-time/part-time intern job roles in Full Stack development 🌱
+
+```
+
   
 ## Mail Me
 

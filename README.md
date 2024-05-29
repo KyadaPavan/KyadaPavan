@@ -1,4 +1,4 @@
-![logo](https://github.com/KyadaPavan/KyadaPavan/blob/main/github%20Banner.png?raw=true)
+![logo]([https://github.com/KyadaPavan/KyadaPavan/blob/main/github%20Banner.png?raw=true](https://github.com/KyadaPavan/KyadaPavan/blob/main/Github%20Banner.png?raw=true))
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/>, I'm Pavan Kyada</h1>
 
 

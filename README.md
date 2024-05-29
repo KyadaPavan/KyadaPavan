@@ -31,17 +31,7 @@ I'm always interested in networking and collaborating. Feel free to connect with
 
 
 
-<h2 align="left">About me👨‍💻</h2>
 
-```JavaScript
-const KyadaPavan = {
-  fulName: "Pavan Kyada",
-  pronouns: "He/Him",
-  tags: [ "Frontend❤️", "Hackathons⚡",  "Programming"],
-  ask me about: [ "Web Development", "Web Designing" ],
-  reach out: ["kyadapavan0016@gmail.com"],
-}
-```
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 

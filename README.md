@@ -92,6 +92,10 @@ I'm always interested in networking and collaborating. Feel free to connect with
 # Stats📈:
 <br>
 
+[![](https://visitcount.itsvg.in/api?id=KyadaPavan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<br>
+
 ![](https://github-readme-stats.vercel.app/api?username=KyadaPavan&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KyadaPavan&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KyadaPavan&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)

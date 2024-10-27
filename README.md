@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/>, I'm Pavan Kyada</h1>
 
 
-<p>Hello, I'm Pavan Kyada, a third-year Information Technology student at A.D. Patel Institute of Technology, deeply passionate about the ever-evolving world of web development.
+<p>Hello, I'm Pavan Kyada, a final-year Information Technology student at A.D. Patel Institute of Technology, deeply passionate about the ever-evolving world of web development.
 
 I'm a passionate full-stack developer fueled by a love for building dynamic and interactive web applications. I leverage my expertise in both front-end and back-end technologies to bring ideas to life.
 

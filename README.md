@@ -2,17 +2,18 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/>, I'm Pavan Kyada</h1>
 
 
-<p>Hello, I'm Pavan Kyada, a final-year Information Technology student at A.D. Patel Institute of Technology, deeply passionate about the ever-evolving world of web development.
+<p>Hi, I’m Pavan Kyada, a Full Stack Web Developer at Trustopay, where I build scalable and performance-driven web applications using modern technologies like React, Next.js, Node.js, Express, and MongoDB.
 
-I'm a passionate full-stack developer fueled by a love for building dynamic and interactive web applications. I leverage my expertise in both front-end and back-end technologies to bring ideas to life.
+I specialize in turning business ideas into fast, responsive digital experiences from sleek landing pages to complex dashboards. My strength lies in building full-stack solutions with clean UI, optimized backend, and seamless integrations.
 
-While having a solid foundation in JavaScript and a knack for frontend frameworks like React and Next.js, I thrive on turning ideas into intuitive user interfaces. I'm also experience in working with backend technologies like Node.js and Express and MongoDB. 
+With a solid foundation in JavaScript and a passion for frameworks like React, I love crafting intuitive frontends that users enjoy. On the backend, I focus on writing clean, modular APIs and delivering reliable functionality.
 
-My relentless curiosity for technology keeps me constantly exploring new tools and frameworks. I thrive in collaborative environments, bringing a blend of strong technical skills and a quick-learning attitude to every project.
+💡 What drives me? <br/>
+A relentless curiosity for tech, a love for clean design, and the joy of bridging vision to reality 🌟
 
-I'm eager to take on challenging full-stack developer roles that allow me to leverage my well-rounded skillset and contribute to innovative solutions in the web development landscape.
+I’m always open to collaborations, freelance opportunities, or just geeking out about web development. Feel free to connect. Let’s build something awesome.
 
-I'm always interested in networking and collaborating. Feel free to connect with me to discuss web development or explore potential opportunities.</p>
+</p>
 
 * Check out more about me - [Portfolio](https://pavankyada.vercel.app)  [Resume](https://pavankyada.vercel.app/resume)
 

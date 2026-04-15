@@ -28,17 +28,7 @@ I’m always open to collaborations, freelance opportunities, or just geeking ou
 ## Mail Me
 
 <p align="left">&nbsp;<a  href="mailto:kyadapavan0016@gmail.com" target="_blank" align="left"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/gmail.png" height=50> </a></p>
-
-## Connect with me🤝
-
-<p>
-  <a  href="https://linkedin.com/in/pavankyada" target="_blank"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/linkedinlogo.png" height=44></a> &nbsp; &nbsp;
-  <a  href="https://twitter.com/KyadaPavan" target="_blank"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/twitterlogo.png" height=44></a> &nbsp; &nbsp;
-  <a href="https://instagram.com/pavan.kyada.16" target="_blank"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/instagramlogo.png" height=44></a> &nbsp; &nbsp;
-</p>
-
-
-
+<a  href="https://linkedin.com/in/pavankyada" target="_blank"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/linkedinlogo.png" height=44></a> &nbsp; &nbsp;
 
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
